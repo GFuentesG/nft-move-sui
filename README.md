@@ -156,7 +156,3 @@ Ideal para iniciar con:
 - Portafolios de desarrollo blockchain
 - Integración en juegos/dApps
 - Casos de estudio de NFTs dinámicos
-
-## 🤝 Contribuciones
-¡Contribuciones son bienvenidas! Por favor abre un issue o envía un PR.
-Este proyecto está bajo licencia MIT (puedes cambiarlo a otra si lo deseas pero manteniendo el autor origianl).
