@@ -1,0 +1,5 @@
+build/*
+.trace
+.coverage*
+
+/sources/nft0.move
