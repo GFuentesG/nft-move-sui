@@ -3,3 +3,8 @@ build/*
 .coverage*
 
 /sources/nft0.move
+/sources/nft01.move
+/sources/nft2.move
+dev_xp_level_up.sh
+dev_xp_level_up2.sh
+history.txt
