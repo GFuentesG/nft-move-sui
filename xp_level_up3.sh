@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Configuración
-PACKAGE_ID="0x446e86156afd3cc3587a3ded63580b08cc8cab00c14b531455aec456e0ce3bc5"
+PACKAGE_ID="0xeeba998484f1fbd685a400f385da16f41bf30fa478c938974feac4be59a3d44e"
 MODULE_NAME="nft1"
-NFT_ID="0xb6541d9b2cf433fe6651b82f4416d41f947d86eb64afff300d03101e4133135d"
+NFT_ID="0xbd53b4a52d4abbd3ca33d5be27a52b70313746070f25b18a4ed00a48affa303e"
 GAS_BUDGET=100000000
 
 # XP a agregar (por defecto 50 si no se pasa argumento)

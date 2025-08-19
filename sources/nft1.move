@@ -94,14 +94,5 @@ module nft1::nft1 {
             // transfer::transfer(nft, tx_context::sender(ctx));    ... test
     }
 
-    // // Consultando el nivel
-    // public fun get_level(nft: &Nft): u64 {
-    //     nft.level
-    // }
-
-    // // consultando la experiencia
-    // public fun get_xp(nft: &Nft): u64 {
-    //     nft.xp
-    // }
 
 }
